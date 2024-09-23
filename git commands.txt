@@ -1,0 +1,13 @@
+git config --global user.email "martin.georgiev5564@outlook.com"
+
+
+cd OneDrive/desktop
+git clone https://github.com/placeholderimperia/devops.git
+
+git pull
+
+git status
+git add .
+git status
+git commit -m "Updated readme.md"
+git push

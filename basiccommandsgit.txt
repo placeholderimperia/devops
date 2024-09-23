@@ -1,0 +1,8 @@
+git clone [remote url]
+git pull
+git add [filename] ("git add ." adds everything)
+git commit –m "[your message here]"
+git status
+git init
+git remote add [remote name] [remote url]
+git push [remote name] [local name]
